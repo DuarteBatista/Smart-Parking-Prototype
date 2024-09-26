@@ -11,6 +11,8 @@
   - [Description](#description)
   - [Technologies used in this work](#technologies-used-in-this-work)
   - [Project Images](#project-images)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Description
 
